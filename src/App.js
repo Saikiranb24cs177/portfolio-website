@@ -59,7 +59,7 @@ function App() {
 
       <h2>Contact</h2>
 <div className="contact-box">
-      <p>Email: saikiran@gmail.com</p>
+      <p>Email: saikirannagelli3@gmail.com</p>
 ><p>
   LinkedIn:
   <a
