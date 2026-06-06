@@ -6,7 +6,7 @@ function App() {
   return (
     <div className={darkMode ? "dark" : "light"}> 
       <nav>
-        <h1>My Portfolio</h1>
+        <h1>Saikiran Nagelli -Full Stack Developer Portfolio</h1>
        <button onClick={() => setDarkMode(!darkMode)}>
   Toggle Dark Mode
 </button>
